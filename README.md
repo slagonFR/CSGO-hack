@@ -1,3 +1,8 @@
+### Please can you contact me on my email : as.mouman@gmail.com
+
+### I can't find your contacts I need your services for a project.
+
+
 # 效果图
 <h1 align="center">
 	<img src="1.jpg" alt="">
@@ -25,6 +30,8 @@ https://v.youku.com/v_show/id_XNDQwOTcxNDYxNg==.html?spm=a2h3j.8428770.3416059.1
 !!!!因为都是使用游戏绝对地址，所以游戏更新后就要替换地址才能有效。
 
 给一个大佬的CSGOHack：https://github.com/danielkrupinski/Osiris，一个非常完善的Hack，大家可以去看看。
+
+
 
 
 
